@@ -1,3 +1,4 @@
+<!-- QR CODE GENERATOR | RISHABHSAKLANI -->
 const container = document.querySelector(".container"),
 qrInput = container.querySelector(".form input"),
 generateBtn = container.querySelector(".form button"),
